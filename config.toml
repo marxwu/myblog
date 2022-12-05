@@ -17,6 +17,9 @@ theme = "diary"
     noClasses = true
     style = "perldoc"
     tabWidth = 4
+    
+[markup.goldmark.renderer]
+  unsafe = true
 
 [params]
 subtitle = "Marx Wu's Blog"
