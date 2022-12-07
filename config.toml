@@ -6,6 +6,10 @@ copyright = "2022 marx wu"
 theme = "diary"
 # googleAnalytics = "UA-123-45"
 
+hasCJKLanguage = true
+enableEmoji = true
+enableInlineShortcodes = true
+
 [markup]
   [markup.highlight]
     codeFences = true
