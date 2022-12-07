@@ -137,6 +137,7 @@ myblog % git submodule add -b master git@github.com:marxwu/myblogpublic.git publ
 
 用户hugo命令生成public文件：
 myblog % hugo
+myblog % hugo --gc --minify --cleanDestinationDir   # 清空后生成
 public % git init
 public % git remote add origin git@github.com:marxwu/myblogpublic.git
 public % git status
