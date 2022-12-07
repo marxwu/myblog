@@ -3,7 +3,7 @@ title: "VSCode快捷键"
 date: 2022-12-07T13:41:37+08:00
 draft: false
 
-featured_image: "images/emc2.png"
+featured_image: "images/vscode.png"
 tags: ["vscode", "快捷键"]
 categories: "vscode"
 ---
