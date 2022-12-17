@@ -16,8 +16,10 @@ categories: "vscode"
 ctrl + ~                # 终端显示和隐藏
 shift + alt + up/down   # 复制当前行
 Alt+ ↑ / ↓              # Move line up/down
-shift + ctrl + k        # 删除当前行
+shift + command + k        # 删除当前行
 alt + shit + mouse      # 块选择
+command + enter         # 下面插入新行
+command + shift + enter # 上面插入新行
 ```
 
 ```
